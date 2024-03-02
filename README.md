@@ -24,7 +24,7 @@ const sagi = {
 ```
 ## Recommendation Letters
 
-<a href="https://lifehkbueduhk-my.sharepoint.com/:b:/g/personal/20201729_life_hkbu_edu_hk/EdesTNa3Sb1LqmfE7CxV4MEBqRWGjPkgpJ6lYpkSZdFt7A?e=f4KQx6">GoGoX</a>
+<a href="https://lifehkbueduhk-my.sharepoint.com/:b:/g/personal/20201729_life_hkbu_edu_hk/EdesTNa3Sb1LqmfE7CxV4MEBqRWGjPkgpJ6lYpkSZdFt7A?e=f4KQx6">From GoGoX</a>
 
 ## Get in touch :coffee:
 
