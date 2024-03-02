@@ -7,7 +7,7 @@
 
 ## About me
 
-<p><em>BBA student at <a href="https://www.hkbu.edu.hk/">HKBU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Intern, Data Science&Analytics at <a href="https://www.gogox.com/index/">GoGoX</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>BBA student at <a href="https://www.hkbu.edu.hk/">HKBU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Intern, Data Science & Analytics at <a href="https://www.gogox.com/index/">GoGoX</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 Final year student studying Business Innovation & Data analytics & Artificial Intelligence with relevant experience in Data Science & Analytics, Data Engineering, Prompt Engineering and Solution Architecture. 
