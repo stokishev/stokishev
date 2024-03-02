@@ -19,7 +19,7 @@ const sagi = {
   tools: [Pandas, NumPy, Scikit, Apache Spark, Kafka, ETL, Selenium,
           Beautiful Soup, Tableau, Looker Studio, Docker, Databricks],
   cloud: [AWS-Solutions Architect Associate, GCP],
- Currently: "Learning Golang language"
+ Currently: "Learning Golang language & Blockchain Technology"
 }
 ```
 ## Recommendation Letters
