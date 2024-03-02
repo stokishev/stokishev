@@ -9,6 +9,16 @@
 
 Hi there 👋. I’m Sagi Tokishev, a final year student studying Business Innovation & Data analytics & Artificial Intelligence with relevant experience in Data Science & Analytics, Data Engineering, Prompt Engineering and Solution Architecture. 
 
+```javascript
+const sagi = {
+  pronouns: "he" | "his",
+  code: [Python, SQL, R, Linux, Go, VBA],
+  tools: [Pandas, NumPy, Scikit, Apache Spark, Kafka, ETL, Selenium, Beautiful Soup, Tableau, Looker Studio, Docker, Databricks],
+  cloud: [AWS-Solutions Architect Associate, GCP],
+ Currently: "Learning Golang language"
+}
+```
+
 ## Get in touch :coffee:
 
 - [LinkedIn](https://www.linkedin.com/in/sagishencyi)
