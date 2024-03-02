@@ -13,7 +13,8 @@ Hi there 👋. I’m Sagi Tokishev, a final year student studying Business Innov
 const sagi = {
   pronouns: "he" | "his",
   code: [Python, SQL, R, Linux, Go, VBA],
-  tools: [Pandas, NumPy, Scikit, Apache Spark, Kafka, ETL, Selenium, Beautiful Soup, Tableau, Looker Studio, Docker, Databricks],
+  tools: [Pandas, NumPy, Scikit, Apache Spark, Kafka, ETL, Selenium,
+          Beautiful Soup, Tableau, Looker Studio, Docker, Databricks],
   cloud: [AWS-Solutions Architect Associate, GCP],
  Currently: "Learning Golang language"
 }
