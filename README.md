@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hey there :wave:
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/stokishev/count.svg" />
+</p>
+
+## About me
+
+Hi there 👋. I’m Sagi Tokishev, a final year student studying Business Innovation & Data analytics & Artificial Intelligence with relevant experience in Data Science & Analytics, Data Engineering, Prompt Engineering and Solution Architecture. 
+
+## Get in touch :coffee:
+
+- [LinkedIn](https://www.linkedin.com/in/sagishencyi)
 
 <!--
 **stokishev/stokishev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
