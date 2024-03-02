@@ -11,7 +11,7 @@ Hi there 👋. I’m Sagi Tokishev, a final year student studying Business Innov
 
 ```javascript
 const sagi = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: [Python, SQL, R, Linux, Go, VBA],
   tools: [Pandas, NumPy, Scikit, Apache Spark, Kafka, ETL, Selenium,
           Beautiful Soup, Tableau, Looker Studio, Docker, Databricks],
