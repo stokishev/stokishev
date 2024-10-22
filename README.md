@@ -7,7 +7,7 @@
 
 ## About me
 
-<p><em>MSc of Finance student at <a href="https://mscfinance.hkbu.edu.hk/">HKBU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>MSc of Finance (Fintech and Financial Analytics) student at <a href="https://mscfinance.hkbu.edu.hk/">HKBU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 BBA student at <a href="https://www.hkbu.edu.hk/">HKBU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 Specialist, Data Science & Analytics at <a href="https://www.gogox.com/index/">GoGoX</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
