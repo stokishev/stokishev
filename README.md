@@ -7,20 +7,29 @@
 
 ## About me
 
-<p><em>BBA student at <a href="https://www.hkbu.edu.hk/">HKBU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Intern, Data Science & Analytics at <a href="https://www.gogox.com/index/">GoGoX</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>MSc of Finance student at <a href="[https://www.hkbu.edu.hk/](https://mscfinance.hkbu.edu.hk/)">HKBU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+BBA student at <a href="https://www.hkbu.edu.hk/">HKBU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+Specialist, Data Science & Analytics at <a href="https://www.gogox.com/index/">GoGoX</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-Final year student concentrating in Business Innovation & Data Analytics & Artificial Intelligence with relevant experience in Data Science & Analytics, Data Engineering, Prompt Engineering and Solution Architecture. 
+
+MSc of Finance (Fintech and Financial Analytics) student with relevant experience in Data Science & Analytics, Data Engineering, DevOps and Project Management. 
 
 ```javascript
 const sagi = {
   pronouns: "he" | "him",
-  code: [Python, SQL, R, Linux, Go, VBA],
-  tools: [Pandas, NumPy, Scikit, Apache Spark, Kafka, ETL, Selenium,
-          Beautiful Soup, Tableau, Looker Studio, Docker, Databricks],
-  cloud: [AWS-Solutions Architect Associate, GCP],
- Currently: "Learning Golang language & Blockchain Technology"
-}
+  code: [Python, SQL, R, Java, Go, Scala],
+  etl: [Apache Spark, PySpark, Hadoop, Databricks],
+  dataWarehouse: [BigQuery],
+  database: [PostgreSQL, MySQL],
+  scraping: [Selenium, Beautiful Soup],
+  dataProcessing: [Pandas, NumPy, TensorFlow, Pytorch, Excel],
+  dataVisualization: [Tableau, Looker Studio],
+  cloud: [GCP, AWS-Solutions Architect Associate],
+  developerTools: [Git, Jira, Linux, FastAPI],
+  containers: [Docker, Kubernetes],
+  currently: "Learning Go & 
+kdb+ & Blockchain Technology"
 ```
 ## Recommendation Letters
 
