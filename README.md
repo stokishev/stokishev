@@ -12,7 +12,7 @@ BBA student at <a href="https://www.hkbu.edu.hk/">HKBU</a><img src="https://medi
 </em></p>
 
 
-MSc of Finance (Fintech and Financial Analytics) student with relevant experience in everything Data, Trading and AI. 
+MSc of Finance (Fintech and Financial Analytics) student with working experience in everything Data, Trading and AI. 
 
 ```javascript
 const sagi = {
