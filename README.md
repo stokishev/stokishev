@@ -1,31 +1,26 @@
 # Hey there, I'm Sagi Tokishev :wave:
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/stokishev/count.svg" />
-</p>
-
 ## About me
 
-<p><em>MSc of Finance (Fintech and Financial Analytics) student at <a href="https://mscfinance.hkbu.edu.hk/">HKBU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-BBA student at <a href="https://www.hkbu.edu.hk/">HKBU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>MSc in Finance (Fintech and Financial Analytics) student at <a href="https://mscfinance.hkbu.edu.hk/">HKBU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+Business Administration (minor in Data Analytics & AI) student at <a href="https://www.hkbu.edu.hk/">HKBU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 
-MSc of Finance (Fintech and Financial Analytics) student with working experience in everything Data, Trading and AI. 
+Graduate MSc in Finance student. I possess a strong foundation in developing data-driven strategies and optimizing/innovating operational efficiencies, aiming to leverage my skills to make a meaningful impact. 
 
 ```javascript
 const sagi = {
   pronouns: "he" | "him",
-  code: [Python, SQL, R, Java, Go, Scala],
-  etl: [Apache Spark, PySpark, Hadoop, Databricks],
+  code: [Python, SQL, R, JavaScript, Kdb],
+  etl: [Apache Kafka, Apache Spark, Apache Hive, Hadoop],
   dataWarehouse: [BigQuery],
-  database: [PostgreSQL, MySQL],
+  database: [PostgreSQL, MySQL, NoSQL],
   scraping: [Selenium, Beautiful Soup],
-  dataProcessing: [Pandas, NumPy, TensorFlow, Pytorch, Excel],
+  dataProcessing: [Pandas, NumPy, Scikit-learn, TensorFlow, Pytorch, Excel],
   dataVisualization: [Tableau, Looker Studio],
-  cloud: [GCP, AWS-Solutions Architect Associate],
-  developerTools: [Git, Jira, Linux, FastAPI],
+  cloud: [GCP-Professional Data Engineer, AWS-Solutions Architect Associate],
+  developerTools: [Git, Jira, Confluence, Notion, Linux],
   containers: [Docker, Kubernetes],
   currently: "Learning AI application in Algo Trading"
 ```
