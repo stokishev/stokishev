@@ -11,17 +11,14 @@ Graduate MSc in Finance student. I possess a strong foundation in developing dat
 ```javascript
 const sagi = {
   pronouns: "he" | "him",
-  code: [Python, SQL, R, JavaScript, Kdb],
-  etl: [Apache Kafka, Apache Spark, Apache Hive, Hadoop],
-  dataWarehouse: [BigQuery],
-  database: [PostgreSQL, MySQL, NoSQL],
-  scraping: [Selenium, Beautiful Soup],
-  dataProcessing: [Pandas, NumPy, Scikit-learn, TensorFlow, Pytorch, Excel],
-  dataVisualization: [Tableau, Looker Studio],
-  cloud: [GCP-Professional Data Engineer, AWS-Solutions Architect Associate],
-  developerTools: [Git, Jira, Confluence, Notion, Linux],
-  containers: [Docker, Kubernetes],
-  currently: "Learning AI application in Algo Trading"
+  code: [Python, SQL, R, JavaScript, Tableau, Power BI, Bloomberg],
+  financeCertifications: [CFT Level 1, CFA Level 1 (Q3/4 2026), CFA Sustainable Investing (Q2 2026), CQF (Q4 2026)],
+  cloudCertifications: [GCP-Professional Data Engineer, AWS-Solutions Architect Associate, GCP-Professional Machine Learning Specialist],
+  dataProcessing: [Pandas, NumPy, Scikit-learn, TensorFlow, Pytorch, Excel, VBA],
+  dataVisualization: [Tableau, Power BI, Looker Studio],
+  developerTools: [Git, Jira, Confluence, Notion],
+  currently: "Looking for AI application in Finance"
+}
 ```
 
 ## Get in touch :coffee:
