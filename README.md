@@ -13,7 +13,7 @@ const sagi = {
   pronouns: "he" | "him",
   code: [Python, SQL, R, JavaScript, Tableau, Power BI, Bloomberg],
   financeCertifications: [CFT Level 1, CFA Level 1 (Q3/4 2026), CFA Sustainable Investing (Q2 2026), CQF (Q4 2026)],
-  cloudCertifications: [GCP-Professional Data Engineer, AWS-Solutions Architect Associate, GCP-Professional Machine Learning Specialist],
+  cloudCertifications: [GCP-Professional Data Engineer, AWS-Solutions Architect Associate, GCP-Professional Machine Learning Engineer],
   dataProcessing: [Pandas, NumPy, Scikit-learn, TensorFlow, Pytorch, Excel, VBA],
   dataVisualization: [Tableau, Power BI, Looker Studio],
   developerTools: [Git, Jira, Confluence, Notion],
