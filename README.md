@@ -8,6 +8,8 @@ Business Administration (minor in Data Analytics & AI) student at <a href="https
 
 Graduate MSc in Finance student. I possess a strong foundation in developing data-driven strategies and optimizing/innovating operational efficiencies, aiming to leverage my skills to make a meaningful impact. 
 
+Check my other GitHub profiles where I contribute to private repositories from the links section under my profile picture!
+
 ```javascript
 const sagi = {
   pronouns: "he" | "him",
